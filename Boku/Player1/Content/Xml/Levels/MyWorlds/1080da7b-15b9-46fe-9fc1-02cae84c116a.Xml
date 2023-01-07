@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<XmlWorldData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1080da7b-15b9-46fe-9fc1-02cae84c116a</id>
+  <name>New World v01</name>
+  <description />
+  <descJustification>Left</descJustification>
+  <creator>Guest</creator>
+  <LinkedFromLevel xsi:nil="true" />
+  <LinkedToLevel xsi:nil="true" />
+  <lastWriteTime>2022-10-29T15:02:47.5808545Z</lastWriteTime>
+  <BokuVersion>1.6.12.0</BokuVersion>
+  <KCodeVersion>10</KCodeVersion>
+  <rating>1</rating>
+  <challenge>false</challenge>
+  <challengeID>0</challengeID>
+  <stuffFilename>Xml\Levels\MyWorlds\Stuff\1080da7b-15b9-46fe-9fc1-02cae84c116a.Xml</stuffFilename>
+  <preGame>Nothing</preGame>
+  <preGameLogo />
+  <dirty>false</dirty>
+  <genres>536870912</genres>
+  <glassWalls>true</glassWalls>
+  <showCompass>true</showCompass>
+  <showResourceMeter>true</showResourceMeter>
+  <enableResourceLimiting>true</enableResourceLimiting>
+  <waveHeight>0.199999973</waveHeight>
+  <waterStrength>0.199999973</waterStrength>
+  <cameraSpringStrength>1</cameraSpringStrength>
+  <fixedCamera>false</fixedCamera>
+  <fixedCameraFrom>
+    <X>95.56074</X>
+    <Y>-39.2864532</Y>
+    <Z>7.39817238</Z>
+  </fixedCameraFrom>
+  <fixedCameraAt>
+    <X>89.64615</X>
+    <Y>-29.5573883</Y>
+    <Z>5.488776</Z>
+  </fixedCameraAt>
+  <fixedCameraDistance>11.5448189</fixedCameraDistance>
+  <fixedCameraPitch>-0.166153327</fixedCameraPitch>
+  <fixedCameraRotation>2.11702633</fixedCameraRotation>
+  <fixedOffsetCamera>false</fixedOffsetCamera>
+  <fixedOffset>
+    <X>14.5141821</X>
+    <Y>-20.1033134</Y>
+    <Z>25.0297012</Z>
+  </fixedOffset>
+  <editCameraAt>
+    <X>88.83328</X>
+    <Y>52.4559364</Y>
+    <Z>14.7305965</Z>
+  </editCameraAt>
+  <editCameraFrom>
+    <X>86.04231</X>
+    <Y>57.8608131</Y>
+    <Z>45.6366959</Z>
+  </editCameraFrom>
+  <editCameraRotation>5.18905449</editCameraRotation>
+  <editCameraPitch>-1.37646008</editCameraPitch>
+  <editCameraDistance>31.4990349</editCameraDistance>
+  <playCameraAt>
+    <X>95.8911743</X>
+    <Y>-26.0025272</Y>
+    <Z>16.3934975</Z>
+  </playCameraAt>
+  <playCameraFrom>
+    <X>98.73298</X>
+    <Y>-32.2902145</Y>
+    <Z>49.2819557</Z>
+  </playCameraFrom>
+  <playCameraValid>true</playCameraValid>
+  <followCameraDistance>11.5448265</followCameraDistance>
+  <followCameraValid>false</followCameraValid>
+  <skyIndex>10</skyIndex>
+  <lightRig>Day</lightRig>
+  <windMin>0</windMin>
+  <windMax>0.5</windMax>
+  <debugPathFollow>false</debugPathFollow>
+  <debugDisplayCollisions>false</debugDisplayCollisions>
+  <debugDisplayLinesOfPerception>false</debugDisplayLinesOfPerception>
+  <debugDisplayCurrentPage>false</debugDisplayCurrentPage>
+  <uiVolume>1</uiVolume>
+  <foleyVolume>1</foleyVolume>
+  <musicVolume>1</musicVolume>
+  <startingCamera>false</startingCamera>
+  <startingCameraFrom>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </startingCameraFrom>
+  <startingCameraAt>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </startingCameraAt>
+  <startingCameraRotation>0</startingCameraRotation>
+  <startingCameraPitch>0</startingCameraPitch>
+  <startingCameraDistance>0</startingCameraDistance>
+  <showVirtualController>false</showVirtualController>
+  <touchGuiButtonSettings>
+    <TouchGUIButtonXmlSetting>
+      <color>White</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Black</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Grey</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Red</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Green</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Blue</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Orange</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Yellow</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Purple</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Pink</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Brown</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+  </touchGuiButtonSettings>
+  <scoreSettings>
+    <ScoreXmlSetting>
+      <color>White</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Black</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Grey</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Red</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Green</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Blue</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Orange</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Yellow</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Purple</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Pink</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Brown</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+  </scoreSettings>
+  <xmlTerrainData2>
+    <virtualMapFile>Xml\Levels\Stuff\TerrainHeightMaps\1080da7b-15b9-46fe-9fc1-02cae84c116a.Map</virtualMapFile>
+    <cubeSize>0.5</cubeSize>
+    <waters />
+  </xmlTerrainData2>
+  <waterNormalMapTextureFilename>Textures\Terrain\WaterNormalMap</waterNormalMapTextureFilename>
+  <changeHistory>
+    <ChangeHistoryEntry>
+      <gamertag>Guest</gamertag>
+      <time>2022-10-29T16:02:47.5025662+01:00</time>
+    </ChangeHistoryEntry>
+  </changeHistory>
+  <checksum>fb5f962f6bdd1b6ea14e0a6a90376889</checksum>
+  <lastSaveTime>2022-10-29T15:02:47.5808545Z</lastSaveTime>
+  <saveTime>2022-10-29T15:02:47.580Z</saveTime>
+  <tutorialSteps />
+</XmlWorldData>
